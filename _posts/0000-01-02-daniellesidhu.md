@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"I'm on the next level." - Aespa
 Use the left arrow to go back!
